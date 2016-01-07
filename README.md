@@ -18,7 +18,9 @@ Various boilerplate for web development
 > Quick setup for performance orientated, offline-first React.js applications featuring Redux, hot-reloading, PostCSS, react-router, ServiceWorker, AppCache, FontFaceObserver and Mocha.
 
 * [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example)
+
 > A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 
 * [sunewt/component-koa-et-al-boilerplate](https://github.com/sunewt/component-koa-et-al-boilerplate)
+
 > Boilerplate for Component, Koa and friends
