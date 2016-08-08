@@ -21,3 +21,14 @@ A starter boilerplate for a universal webapp using express, react, redux, webpac
 
 ### [sunewt/component-koa-et-al-boilerplate](https://github.com/sunewt/component-koa-et-al-boilerplate)
 Boilerplate for Component, Koa and friends
+
+### [facebookincubator/create-react-app](https://github.com/facebookincubator/create-react-app)
+Create React apps with no build configuration.
+
+### [insin/nwb](https://github.com/insin/nwb)
+CLI tool and devDependency for React apps & components and npm modules.
+
+### [mozilla/neo](https://github.com/mozilla/neo)
+Scaffold out a React-based front-end application with zero initial configuration.
+
+
